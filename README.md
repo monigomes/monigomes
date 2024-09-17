@@ -38,8 +38,10 @@ new chapter in my life, acquire new knowledge, contribute to the community, and 
 [![linkedin](https://img.shields.io/badge/-linkedln?style=flat&logo=linkedin&label=Linkedln&labelColor=%230A66C2&color=%230A66C2)](https://linkedin.com/in/monigomes)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=flat)](https://www.dio.me/users/monicag_souza)
 
-### ● GitHub Streak and Repository
-[![GitHub Streak](https://streak-stats.demolab.com?user=monigomes&theme=midnight-purple)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
+### ● GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=monigomes&theme=midnight-purple)](https://git.io/streak-stats)
+
+### ● Repository
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=monigomes&repo=projetos_fullstack&&cache_seconds=86400&theme=midnight-purple)](https://github.com/monigomes/projetos_fullstack.git)
 
 
